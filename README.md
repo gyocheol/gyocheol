@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### My name is Gyocheol Kang
-### Interested in Java, Python, DB
+##### My name is Gyocheol Kang
+##### Interested in Java, Python, DB
 <!--
 **gyocheol/gyocheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
