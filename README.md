@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyocheol&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kys04171)](https://solved.ac/kys04171/)
 
-### 💪 Skils
+### 💪 Skills
 ---
 ![java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
