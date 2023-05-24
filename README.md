@@ -1,7 +1,5 @@
-### Hi there 👋
-
-##### My name is Gyocheol Kang
-##### Interested in Java, Python, DB
+### Hello, My name is Kang Gyocheol. 👋
+---
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyocheol&count_bg=%23CACACA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
@@ -20,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyocheol&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kys04171)](https://solved.ac/kys04171/)
