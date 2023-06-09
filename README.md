@@ -9,13 +9,14 @@
 <b>💪 Skills</b>
 
 <div>
-	<img src="https://img.shields.io/badge/Java-5382a1?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-5382a1?style=flat&logo=java&logoColor=white" />
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   	<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
 	<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/JWT-4479A1?style=flat&logo=jwt&logoColor=white" />
 </div>
 <div>
 	<img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white" />
