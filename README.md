@@ -1,6 +1,9 @@
 <div align="center"> 
 <h1>Hello, My name is Kang Gyocheol 👋<h1>
 
+[포트폴리오 바로가기!](https://sky-haumea-606.notion.site/0495b4bdcc5249d2801f90d0f17708aa?pvs=4)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyocheol&count_bg=%23CACACA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyocheol&show_icons=true&theme=radical&card_width=1000)<br>
